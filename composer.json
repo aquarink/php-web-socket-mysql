@@ -1,0 +1,6 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.4.2",
+        "voku/simple-mysqli": "^8.2"
+    }
+}
